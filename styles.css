@@ -1,0 +1,379 @@
+#head-1-section {
+    font-family: "Roboto";
+    color: #1d2026;
+    padding-left: 35px;
+    margin-top: 5px;
+}
+
+#head-2-section {
+    font-family: "Roboto";
+    color: #1d2026;
+    padding-left: 35px;
+    margin-top: 5px;
+}
+
+#head-3-section {
+    font-family: "Roboto";
+    color: #1d2026;
+    padding-left: 35px;
+    margin-top: 5px;
+}
+
+.blk-button {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #000000;
+    margin-left: 35px;
+    margin-top: 5px;
+    padding: 10px;
+    width: 15vh;
+    border-radius: 10px;
+}
+
+.view-blk-button {
+    font-family: "Roboto";
+    color: #ffffff;
+    background-color: #000000;
+    margin-left: 35px;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.banner-section {
+    height: 130vh;
+    text-align: center;
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.head-para-section {
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.head-section {
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.para-section {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+.custom-outline-button {
+    color: black;
+    font-weight: bold;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.why_choose_us {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ffffff;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    height: 30vh;
+}
+
+.Head-container {
+    font-weight: bold;
+}
+
+.para-container {
+    font-size: 15px;
+    color: #75848a;
+    font-weight: 500;
+}
+
+.span-container {
+    color: #d0b200;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-head-container {
+    font-weight: bold;
+    color: #000000;
+    font-size: 20px;
+}
+
+.img-container {
+    height: 50vh;
+    width: 80vh;
+    padding: 10px;
+}
+.bg-color-menu {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.menu-image {
+    height: 50%;
+    width: 90%;
+    border-radius: 15px;
+}
+
+.style-menu {
+    padding-top: 5px;
+    text-align: left;
+}
+
+.Head-menu {
+    font-family: Sans-Serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+
+}
+
+.a-tag-container {
+    color: #d0b200;
+    font-weight: bold;
+}
+
+.organic-container {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 80px;
+}
+
+.head-organic-container {
+    color: black;
+    text-align: left;
+    font-size: 35px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.para-organic-container {
+    text-align: left;
+    font-size: 15px;
+    color: #75848a;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.payment-card-img {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    padding: 20px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.tq-Head-container {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.tq-para-container {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.icon-bg {
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    border-radius: 60px;
+    margin: 25px;
+}
+
+.icon-hd {
+    font-size: 12px;
+}
+
+.head-footer-container {
+    font-weight: bold;
+    color: #d0b200;
+    font-size: 25px;
+}
+
+.span-footer-container {
+    color: #75848a;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.para-footer-container {
+    font-weight: 500;
+    color: #d0b200;
+    font-size: 20px;
+}
+
+.img-footer-section-container {
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    width: 100%;
+    min-height: 300px;
+    max-height: auto;
+    background-color: rgba(0,0,0,0.9);
+    margin-top: 10px;
+    clear: both;
+  }
+  footer .footer-wrap{
+    width: 80%;
+    margin: 0 auto;
+    padding-left: 9%;
+    color: white;
+  }
+  .widgetFooter{
+    width: calc(85%/3);
+    height: auto;
+    float: left;
+    padding: 2.5%;
+    text-align: left;
+  }
+  h4.uppercase{
+    text-transform: uppercase;
+  }
+  ul#footerUsefulLink, ul#footerMediaLinks{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 40px;
+    text-transform: capitalize;
+  }
+  ul#footerUsefulLink li, ul#footerMediaLinks li{
+    cursor: pointer;
+    /* transition: border-bottom 3s ease-in; */
+  }
+  ul#footerUsefulLink li:hover .usefulLinksIcons, ul#footerUsefulLink li:hover a{
+     color: #00CED1;
+     /* border-bottom: 1px solid red; */
+  }
+  ul#footerMediaLinks li:hover span.fb, ul#footerMediaLinks li:hover a.fb { color: #3b5998; }
+  ul#footerMediaLinks li:hover span.twit, ul#footerMediaLinks li:hover a.twit { color: #1DA1F2; }
+  ul#footerMediaLinks li:hover span.insta, ul#footerMediaLinks li:hover a.insta { color: #ffc838; }
+  ul#footerMediaLinks li:hover span.git, ul#footerMediaLinks li:hover a.git { color: #f1502f; }
+  
+  div#footerLogo img{
+    width: 50%;
+    margin: 25% 0;
+  }
+  
+  div.footerCopy{
+    clear: both;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+    border-top: 1px solid #ccc;
+  }
+  
+  @media (max-width:800px){
+    footer .footer-wrap{
+      width: 100%;
+      padding: 0;
+    }
+    .widgetFooter:not(:nth-of-type(2)){
+      width: calc(90%/2);
+      text-align: center;
+      font-size: 0.9em;
+    }
+    .widgetFooter:nth-of-type(2){
+      display: none;
+    }
+    div.footerCopy{
+      font-size: 0.8em;
+    }
+  }
+  @media (max-width:600px){
+    .widgetFooter:not(:nth-of-type(2)){
+      text-align: left;
+    }
+  }
+  @media (max-width:500px){
+    footer{
+      min-height: auto;
+    }
+    .widgetFooter:not(:nth-of-type(2)){
+      width: 100%;
+      padding: 0;
+      text-align: center;
+    }
+    ul#footerUsefulLink, ul#footerMediaLinks{
+      display: flex;
+    }
+    ul#footerUsefulLink li, ul#footerMediaLinks li{
+      float: left;
+      flex: 1;
+      text-align: center;
+      font-size: 1.5em;
+    }
+    ul#footerUsefulLink li a, ul#footerMediaLinks li a{
+      display: none;
+    }
+    ul#footerUsefulLink li:hover, ul#footerUsefulLink li:hover .usefulLinksIcons, ul#footerUsefulLink li:hover a{
+       color: white;
+       background-color: #00CED1;
+    }
+    ul#footerMediaLinks li.media1:hover, ul#footerMediaLinks li:hover span.fb, ul#footerMediaLinks li:hover a.fb { background-color: #3b5998; color: white; }
+    ul#footerMediaLinks li.media2:hover, ul#footerMediaLinks li:hover span.twit, ul#footerMediaLinks li:hover a.twit { background-color: #1DA1F2; color: white; }
+    ul#footerMediaLinks li.media3:hover, ul#footerMediaLinks li:hover span.insta, ul#footerMediaLinks li:hover a.insta { background-color: #ffc838; color: white; }
+    ul#footerMediaLinks li.media4:hover, ul#footerMediaLinks li:hover span.git, ul#footerMediaLinks li:hover a.git { background-color: #f1502f; color: white; }
+  }
+
+hr {
+    border-top: 1px solid red;
+  }
